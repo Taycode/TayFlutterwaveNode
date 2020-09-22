@@ -1,0 +1,24 @@
+{
+  "name": "tayflutterwavenode",
+  "version": "1.0.0",
+  "description": "Flutterwave Library for NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Taycode/TayFlutterwaveNode.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Taycode/TayFlutterwaveNode/issues"
+  },
+  "homepage": "https://github.com/Taycode/TayFlutterwaveNode#readme",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "dotenv": "^8.2.0",
+    "node-forge": "^0.10.0"
+  }
+}
